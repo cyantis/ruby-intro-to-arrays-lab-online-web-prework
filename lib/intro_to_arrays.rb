@@ -6,6 +6,6 @@ def array_with_two_elements
   my_two_array = ['red', 'blue']
 end
 
-def my_first_element(array)
+def first_element(array)
   array[0]
 end
